@@ -64,7 +64,9 @@ The system is organized into multiple modules:
 
 ### Class Diagram
 
-![Class Diagram](uml/class-diagram.png)
+<img width="4096" height="1090" alt="image" src="https://github.com/user-attachments/assets/cbbe5c6f-19a9-4b8d-adce-4366ad830967" />
+
+
 
 ## Technologies
 
